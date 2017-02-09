@@ -42,7 +42,7 @@
         android:layout_marginRight="32dp" />
 
     <TextView
-        android:text="TextView"
+        android:text="账号："
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/zhanghao"
@@ -57,7 +57,7 @@
         android:textSize="18sp" />
 
     <TextView
-        android:text="TextView"
+        android:text="密码："
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/password"
